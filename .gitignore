@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Compiled bytecode
+__pycache__/
+
+# VS Code workspace settings
+.vscode/
+
+*.pyc
+
+# OS thumbnail/metadata files
+Thumbs.db
+.DS_Store
